@@ -6,7 +6,8 @@ Facebook developer Circles, Pune is a community of 6.1K+ innovators, where aspir
 
 ## Tech/ Framework used 
 
-## How can I contribute? 
+## How can I contribute?
+Head to [CONTRIBUTING.MD](https://github.com/devcpune/devcpune.github.io/blob/master/CONTRIBUTING.md) for detailed guidelines on how you can get involved with this project. 
 
 ## Maintainers 
 
