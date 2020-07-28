@@ -7,9 +7,11 @@ Facebook developer Circles, Pune is a community of 6.1K+ innovators, where aspir
 ## Tech/ Framework used 
 
 ## How can I contribute?
-Head to [CONTRIBUTING.MD](https://github.com/devcpune/devcpune.github.io/blob/master/CONTRIBUTING.md) for detailed guidelines on how you can get involved with this project. 
+If you are new to open source contributions, we first recommend you visit this **[resource](https://github.com/firstcontributions/first-contributions)** to understand how you can get involved. Otherwise, you can directly head to [CONTRIBUTING.MD](https://github.com/devcpune/devcpune.github.io/blob/master/CONTRIBUTING.md) for detailed guidelines on how you can get involved with this project. 
 
 ## Maintainers 
+* [Sangeeta Gupta](https://github.com/sangeetaguptaOnc2068/)
+* [Sayak Sarkar](https://github.com/sayak-sarkar/)
 
 ## License 
 By contributing to Developer Circles Pune Site, you agree that your contributions will be licensed under the [LICENSE](https://github.com/devcpune/devcpune.github.io/edit/master/LICENSE)  file located in the root directory of this source tree.
