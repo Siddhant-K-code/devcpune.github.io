@@ -2,7 +2,7 @@
 Thank you for taking the first step towards contributing to this project! 
 
 ## Code of Conduct
-Please refer to the **[CODE_OF_CONDUCT.md](https://github.com/devcpune/devcpune.github.io/edit/master/docs/CODE_OF_CONDUCT.md/)** for instructions. 
+Please refer to the **[CODE_OF_CONDUCT.md](https://github.com/devcpune/devcpune.github.io/blob/master/docs/CODE_OF_CONDUCT.md)** for instructions. 
 
 ## Pull Requests
 We actively welcome your pull requests.
