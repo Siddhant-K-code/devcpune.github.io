@@ -17,4 +17,4 @@ clear and has sufficient instructions to be able to reproduce the issue.
 
 ## License
 By contributing to this repo, you agree that your contributions will be licensed
-under the LICENSE file in the root directory of this source tree.
+under the **[LICENSE](https://github.com/devcpune/devcpune.github.io/edit/master/LICENSE)** file in the root directory of this source tree.
