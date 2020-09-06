@@ -10,7 +10,7 @@ Facebook developer Circles, Pune is a community of 6.1K+ innovators, where aspir
 If you are new to open source contributions, we first recommend you visit this **[resource](https://github.com/firstcontributions/first-contributions)** to understand how you can get involved. Otherwise, you can directly head to [CONTRIBUTING.MD](https://github.com/devcpune/devcpune.github.io/blob/master/docs/CONTRIBUTING.md) for detailed guidelines on how you can contribute to this project. 
 
 ## Maintainers 
-* [Sangeeta Gupta](https://github.com/sangeetaguptaOnc2068/)
+* [Sangeeta Gupta](https://github.com/sangeetagupta2068/)
 * [Sayak Sarkar](https://github.com/sayak-sarkar/)
 
 ## License 
